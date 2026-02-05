@@ -10,10 +10,10 @@ https://online-scam-awareness-and-prevention.netlify.app/
 ### 🏠 Home Page
 ![Home Page](./images//home.png)
 
-### ⚠️ Scam Awareness Section
+### ⚠️ Report scam section
 ![Scam Awareness](./images/reportpage.png)
 
-### 🛡️ Prevention Tips
+### 🛡️ Types of Online scam
 ![Prevention Tips](./images/types.png)
 ## 📌 Features
 - Information about online scams
