@@ -27,3 +27,9 @@ https://online-scam-awareness-and-prevention.netlify.app/
 
 ## 🎯 Objective
 To spread cyber awareness and help users stay safe online.
+
+## 🤝 Contributors 
+
+<a href="https://github.com/vedika2554/icp15-html-group-project-1-Online-Scam-Awareness-Prevention/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vedika2554/icp15-html-group-project-1-Online-Scam-Awareness-Prevention" alt="Contributors">
+</a>
